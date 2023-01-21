@@ -1,10 +1,10 @@
-# <center>Página de Produto 🛋</center>
+# <h1 align="center"> Página de Produto 🛋 </h1>
 
 ![](./.github/preview.gif)
 
 ## 📜 Sobre
 
-Trata-se uma página de exposição de um produto, com a possibilidade de visualização 360º.
+Trata-se uma página de exposição de um produto, com a possibilidade de visualização 360º. Desenvolvido durante a NLW Setup da Rocketseat.
 <br><br>
 
 ## 🛠 Tecnologias utilizadas
